@@ -1,0 +1,5 @@
+ - 251AA67A4D958E168DE242938A7DD240 
+	/NarrativeFramework/Example/Map/Map1.Map1:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text - "MAP1" 
+	/NarrativeFramework/Example/Map/Map3.Map3:PersistentLevel.TextRenderActor_0.NewTextRenderComponent.Text - "MAP3" 
+	/NarrativeFramework/Example/Map/Map2.Map2:PersistentLevel.TextRenderActor_0.NewTextRenderComponent.Text - "MAP2" 
+
